@@ -1,0 +1,81 @@
+C on Numbers
+
+1.	Write a program to reverse an integer in C.
+
+2.	Write a program in C to check whether an integer is Armstrong number or not.
+
+3.	Write a program in C to check given number is prime or not.
+
+4.	Write a program in C to print the Fibonacci series using iteration.
+
+5.	Write a program in C to print the Fibonacci series using recursion.
+
+6.	Write a program in C to check whether a number is palindrome or not using iteration.
+
+7.	Write a program in C to check whether a number is palindrome or not using recursion.
+
+8.	Write a program in C to find greatest among three integers.
+
+9.	Write a program in C to check if a number is binary.
+
+10.	Write a program in C to find sum of digits of a number using recursion.
+
+11.	Write a program in C to swap two numbers without using third variable.
+
+12.	Write a program in C to swap two numbers using third variable.
+
+13.	Write a program in C to find prime factors of a given integer.
+
+14.	Write a program in C to add two integer without using arithmetic + operator.
+
+15.	Write a program in C to check given number is perfect or not.
+
+16.	C Program to find the Average of numbers with explanations.
+
+17.	C Program to calculate factorial using iterative method.
+
+18.	C Program to calculate factorial using recursion.
+
+19.	C Program to check a given number is even or odd.
+
+20.	C program to print first n Prime Number with explanation.
+
+21.	C Program to print Prime Number in a given range
+
+22.	C Program to find Smallest number among three.
+
+23.	C program to calculate the power using the POW method.
+
+24.	C Program to calculate the power without using POW function.
+
+25.	C Program to calculate the square of a given number.
+
+
+26.	C Program to calculate the cube of a given number
+
+
+27.	C Program to calculate the square root of a given number.
+
+
+28.	C program to calculate LCM of given two numbers.
+
+
+29.	C Program to find GCD or HCF of two numbers.
+
+
+30.	C Program to find GCD of two numbers using recursion.
+
+
+31.	C Program to Convert Decimal Number into Binary.
+
+
+32.	C Program to convert Decimal number to Octal number.
+
+
+33.	C Program to check the given year is a leap year or not.
+
+
+34.	C Program to convert Celsius to Fahrenheit.
+
+
+35.	C Program to convert Fahrenheit to Celsius.

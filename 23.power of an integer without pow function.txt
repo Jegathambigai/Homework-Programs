@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main(){
+    int n,i,a=1,b;
+    printf("Enter the integer:");
+    scanf("%d",&n);
+    printf("Enter the power:");
+    scanf("%d",&b);
+    for(i=0;i<b;i++){
+        a=a*n;
+    }
+    printf("%d power %d is:%d",n,b,a);
+   return 0;
+}
